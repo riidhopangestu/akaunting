@@ -10,6 +10,10 @@ return [
     'billing'                   => 'Abrechnung',
     'advanced'                  => 'Erweitert',
 
+    'actions' => [
+        'cancel'                => 'Stornieren',
+    ],
+
     'invoice_detail' => [
         'marked'                => '<b>Sie</b> markierten diese Rechnung als',
         'services'              => 'Dienste',

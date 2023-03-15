@@ -10,6 +10,10 @@ return [
     'billing'                   => 'Tagihan',
     'advanced'                  => 'Opsi Lanjutan',
 
+    'actions' => [
+        'cancel'                => 'Batal',
+    ],
+
     'invoice_detail' => [
         'marked'                => '<b>Anda</b> menandai faktur ini sebagai',
         'services'              => 'Layanan',

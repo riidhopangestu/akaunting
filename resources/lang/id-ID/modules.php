@@ -39,7 +39,7 @@ return [
     'install'               => 'Pasang',
     'buy_now'               => 'Beli Sekarang',
     'get_api_key'           => '<a href=":url" target="_blank">Klik disini</a> untuk mendapatkan Token API.',
-    'no_apps'               => 'Belum ada aplikasi dalam kategori ini.',
+    'no_apps'               => 'Periksa aplikasi paling profesional untuk bisnis Anda dan dapatkan dengan harga terbaik.',
     'become_developer'      => 'Apakah Anda seorang pengembang? <a href=":url" target="_blank"> Di Sini </a> Anda dapat belajar cara membuat aplikasi dan mulai menjual hari ini!',
     'recommended_apps'      => 'Aplikasi yang direkomendasikan',
     'can_not_install'       => 'Langganan bulanan hanya tersedia untuk layanan Cloud. <a href="https://akaunting.com/upgrade-to-yearly" target="_blank">Pelajari lebih jauh.</a>',

@@ -10,6 +10,10 @@ return [
     'billing'                   => 'Facturació',
     'advanced'                  => 'Avançat',
 
+    'actions' => [
+        'cancel'                => 'Cancel·la',
+    ],
+
     'invoice_detail' => [
         'marked'                => '<b> Tu </b> has marcat aquesta factura com',
         'services'              => 'Serveis',
